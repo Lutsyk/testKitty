@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/testkitty/static/css/main.d970adc6.chunk.css",
+    "main.js": "/testkitty/static/js/main.5c4c1f2a.chunk.js",
+    "main.js.map": "/testkitty/static/js/main.5c4c1f2a.chunk.js.map",
+    "runtime~main.js": "/testkitty/static/js/runtime~main.e8e75767.js",
+    "runtime~main.js.map": "/testkitty/static/js/runtime~main.e8e75767.js.map",
+    "static/js/2.bc0e5e72.chunk.js": "/testkitty/static/js/2.bc0e5e72.chunk.js",
+    "static/js/2.bc0e5e72.chunk.js.map": "/testkitty/static/js/2.bc0e5e72.chunk.js.map",
+    "static/js/3.061514ed.chunk.js": "/testkitty/static/js/3.061514ed.chunk.js",
+    "static/js/3.061514ed.chunk.js.map": "/testkitty/static/js/3.061514ed.chunk.js.map",
+    "index.html": "/testkitty/index.html",
+    "precache-manifest.55c0b0ba6ca6c4eb736e1be40a168049.js": "/testkitty/precache-manifest.55c0b0ba6ca6c4eb736e1be40a168049.js",
+    "service-worker.js": "/testkitty/service-worker.js",
+    "static/css/main.d970adc6.chunk.css.map": "/testkitty/static/css/main.d970adc6.chunk.css.map"
+  }
+}
